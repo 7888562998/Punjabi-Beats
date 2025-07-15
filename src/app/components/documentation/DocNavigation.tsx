@@ -41,7 +41,7 @@ export const DocNavigation = () => {
     return (
         <div className="flex flex-col gap-0.5 mt-4 items-start fixed pe-4" >
             <Link href={"/"} className="pb-8 flex justify-center">
-                <Image src={"/images/logo/logo-black.svg"} alt="Image" width={187} height={30} className="dark:hidden" />
+                <Image src={"/images/logo/logo-black.png"} alt="Image" width={187} height={30} className="dark:hidden" />
                 <Image src={"/images/logo/WhiteLogo.svg"} alt="Image" width={187} height={30} className="hidden dark:block" />
             </Link>
             {
