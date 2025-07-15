@@ -36,12 +36,11 @@ function HeroSection() {
                                     />
                                 </div>
                                 <p className="text-white/70 max-w-md">
-                                    We create <span className="text-primary">high-performing</span> digital designs
-                                    that elevate brands and enhance conversions.
+                                    A glimpse into our creative platform—empowering artists to upload, share, and release original video songs. From upload to playlist release, we support you every step of the way.
                                 </p>
                             </div>
                             <div className="flex flex-col lg:flex-row items-start lg:items-end gap-4">
-                                <h1 className="large-heading">Studiova</h1>
+                                <h1 className="large-heading">Punjabi <span style={{ fontStyle: 'italic' }}>Beats.</span></h1>
                                 <div>
                                     <div className="bg-primary rounded-full p-1.5 pl-8">
                                         <Image src={"/images/Icon/arrow-icon.svg"} alt="icon" height={52} width={52} />
