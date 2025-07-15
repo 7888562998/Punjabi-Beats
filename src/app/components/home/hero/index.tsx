@@ -36,7 +36,7 @@ function HeroSection() {
                                     />
                                 </div>
                                 <p className="text-white/70 max-w-md">
-                                    A glimpse into our creative platform—empowering artists to upload, share, and release original video songs. From upload to playlist release, we support you every step of the way.
+                                    Empowering artists to upload, share, and release original Punjabi video songs—all in one platform.
                                 </p>
                             </div>
                             <div className="flex flex-col lg:flex-row items-start lg:items-end gap-4">
